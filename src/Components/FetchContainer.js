@@ -11,7 +11,7 @@ function fetchContainer() {
         <h1>BOTS COLLECTION</h1>
        <MyBotArmy />
        <Button />
-       <BotSearch />
+      
        
        
        </div>
