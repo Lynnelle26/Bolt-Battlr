@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lynnelle26/Bolt-Battlr/static/css/main.d070eabf.css",
-    "main.js": "/Lynnelle26/Bolt-Battlr/static/js/main.407f00bf.js",
-    "static/js/453.4d60b6f2.chunk.js": "/Lynnelle26/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js",
-    "index.html": "/Lynnelle26/Bolt-Battlr/index.html",
-    "main.d070eabf.css.map": "/Lynnelle26/Bolt-Battlr/static/css/main.d070eabf.css.map",
-    "main.407f00bf.js.map": "/Lynnelle26/Bolt-Battlr/static/js/main.407f00bf.js.map",
-    "453.4d60b6f2.chunk.js.map": "/Lynnelle26/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js.map"
+    "main.css": "/Bolt-Battlr/static/css/main.d070eabf.css",
+    "main.js": "/Bolt-Battlr/static/js/main.45f212ab.js",
+    "static/js/453.4d60b6f2.chunk.js": "/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js",
+    "index.html": "/Bolt-Battlr/index.html",
+    "main.d070eabf.css.map": "/Bolt-Battlr/static/css/main.d070eabf.css.map",
+    "main.45f212ab.js.map": "/Bolt-Battlr/static/js/main.45f212ab.js.map",
+    "453.4d60b6f2.chunk.js.map": "/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d070eabf.css",
-    "static/js/main.407f00bf.js"
+    "static/js/main.45f212ab.js"
   ]
 }
