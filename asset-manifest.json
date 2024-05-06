@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Bolt-Battlr/static/css/main.d070eabf.css",
-    "main.js": "/Bolt-Battlr/static/js/main.b0340fd5.js",
+    "main.js": "/Bolt-Battlr/static/js/main.18d5a6c7.js",
     "static/js/453.4d60b6f2.chunk.js": "/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js",
     "index.html": "/Bolt-Battlr/index.html",
     "main.d070eabf.css.map": "/Bolt-Battlr/static/css/main.d070eabf.css.map",
-    "main.b0340fd5.js.map": "/Bolt-Battlr/static/js/main.b0340fd5.js.map",
+    "main.18d5a6c7.js.map": "/Bolt-Battlr/static/js/main.18d5a6c7.js.map",
     "453.4d60b6f2.chunk.js.map": "/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d070eabf.css",
-    "static/js/main.b0340fd5.js"
+    "static/js/main.18d5a6c7.js"
   ]
 }
