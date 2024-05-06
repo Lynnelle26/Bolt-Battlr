@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bolt-Battlr/static/css/main.d070eabf.css",
-    "main.js": "/Bolt-Battlr/static/js/main.1b60ff23.js",
-    "static/js/453.4d60b6f2.chunk.js": "/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js",
-    "index.html": "/Bolt-Battlr/index.html",
-    "main.d070eabf.css.map": "/Bolt-Battlr/static/css/main.d070eabf.css.map",
-    "main.1b60ff23.js.map": "/Bolt-Battlr/static/js/main.1b60ff23.js.map",
-    "453.4d60b6f2.chunk.js.map": "/Bolt-Battlr/static/js/453.4d60b6f2.chunk.js.map"
+    "main.css": "/Lynnelle26/Bolt-Battlr.git/static/css/main.d070eabf.css",
+    "main.js": "/Lynnelle26/Bolt-Battlr.git/static/js/main.5c1674c7.js",
+    "static/js/453.4d60b6f2.chunk.js": "/Lynnelle26/Bolt-Battlr.git/static/js/453.4d60b6f2.chunk.js",
+    "index.html": "/Lynnelle26/Bolt-Battlr.git/index.html",
+    "main.d070eabf.css.map": "/Lynnelle26/Bolt-Battlr.git/static/css/main.d070eabf.css.map",
+    "main.5c1674c7.js.map": "/Lynnelle26/Bolt-Battlr.git/static/js/main.5c1674c7.js.map",
+    "453.4d60b6f2.chunk.js.map": "/Lynnelle26/Bolt-Battlr.git/static/js/453.4d60b6f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d070eabf.css",
-    "static/js/main.1b60ff23.js"
+    "static/js/main.5c1674c7.js"
   ]
 }
