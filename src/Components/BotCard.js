@@ -36,7 +36,7 @@ function Card({ enlistBot }) {
     <div>
     <div className="col-sm-3 mb-4">
       <div className="card">
-        <BotTypes handleEnlistClick={handleEnlistClick} enlistBot={bot} />
+        <BotTypes handleEnlistClick={handleEnlistClick} />
         <img src={bot.avatar_url} className="card-image" alt="Avatar" />
         <div className="card-body">
           <h5 className="card-title">{bot.name}</h5>

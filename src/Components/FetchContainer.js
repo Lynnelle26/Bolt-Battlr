@@ -1,4 +1,4 @@
-import React,{ useState } from "react";
+import React from "react";
 import MyBotArmy from "./MyBotArmy";
 import Button from "./Button";
 import BotSearch from "./BotSearch";
@@ -11,7 +11,7 @@ function fetchContainer() {
         <h1>BOTS COLLECTION</h1>
        <MyBotArmy />
        <Button />
-      
+       <BotSearch />
        
        
        </div>
